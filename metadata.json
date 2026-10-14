@@ -1,0 +1,8 @@
+{
+  "name": "Remix HE THONG GIAM SAT VA QUAN LY CHAT LUONG LOL",
+  "description": "Hệ thống giám sát và quản lý chất lượng sản phẩm điện tử cho Công ty TNHH Điện Tử LOL - Quản lý IQC, IPQC, OQC, CAPA, Khiếu nại khách hàng và phân tích dữ liệu chất lượng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
